@@ -1,37 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ambuj%20Mishra&fontSize=52&fontColor=fff&fontAlignY=36&desc=Full-Stack%20Dev%20%7C%20AI%20Enthusiast%20%7C%20VIT%20Vellore%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ambuj%20Mishra&fontSize=52&fontColor=fff&fontAlignY=36&desc=Full-Stack%20Dev%20%7C%20AI%20Enthusiast%20%7C%20VIT%20Vellore&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ambuj+%F0%9F%91%8B;Full-Stack+Developer+in+the+making;B.Tech+CSE+%40+VIT+Vellore;Building+cool+stuff+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ambuj;Full-Stack+Developer+in+the+making;B.Tech+CSE+%40+VIT+Vellore;Building+cool+stuff+one+commit+at+a+time" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=AmbujMishra22&label=Profile+Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/Ambuj_Mishra22?label=Followers&style=social"/>
+<img src="https://img.shields.io/github/followers/AmbujMishra22?label=Followers&style=social"/>
 
 </div>
 
 ---
 
-## ≡ƒºá About Me
+## About Me
 
 ```javascript
 const ambuj = {
   name:        "Ambuj Mishra",
-  location:    "VIT Vellore, India ≡ƒç«≡ƒç│",
+  location:    "VIT Vellore, India",
   degree:      "B.Tech CSE (Business Systems)",
   learning:    ["Full-Stack Development", "Artificial Intelligence"],
   currentFocus: "Building real-world projects & sharpening problem-solving",
-  funFact:     "I debug faster with chai Γÿò in hand",
+  funFact:     "I debug faster with chai in hand",
   available:   true   // open to collabs & internships!
 };
 ```
 
 ---
 
-## ≡ƒ¢á∩╕Å Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -51,7 +51,7 @@ const ambuj = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Platforms**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -61,7 +61,7 @@ const ambuj = {
 
 ---
 
-## ≡ƒôè GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -77,7 +77,7 @@ const ambuj = {
 
 ---
 
-## ≡ƒÅå GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AmbujMishra22&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
@@ -85,27 +85,26 @@ const ambuj = {
 
 ---
 
-## ≡ƒôê Contribution Graph
+## Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmbujMishra22&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 ---
 
-## ≡ƒÜÇ What I'm Up To
+## What I'm Up To
 
-- ≡ƒö¡ Currently building **Full-Stack projects** to grow my portfolio
-- ≡ƒñû Exploring **AI/ML** concepts and integrating them into web apps
-- ≡ƒÆí Always looking for interesting **open-source** contributions
-- ≡ƒô¼ Open to **internships & collaborations** ΓÇö let's build something!
+- Currently building **Full-Stack projects** to grow my portfolio
+- Exploring **AI/ML** concepts and integrating them into web apps
+- Always looking for interesting **open-source** contributions
+- Open to **internships and collaborations** — let's build something!
 
 ---
 
-## ≡ƒñ¥ Connect With Me
+## Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.vercel.app)
 
@@ -124,4 +123,3 @@ const ambuj = {
 **"Code. Learn. Build. Repeat."**
 
 </div>
-
